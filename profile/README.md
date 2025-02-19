@@ -1,9 +1,28 @@
-# Welcome To AdvanceFalling
+<div align="center">
+  <img src="https://files.catbox.moe/q8bo16.png" alt="Banner GIF" width="200" />
+</div>
 
-Hi, welcome! We create random things and hope you like them.
+<div align="center">
+<header><h1>Welcome to AdvanceFalling</h1></header>
+</div>
 
-## About Us
-We're a team of developers who have a passion for trying different aspects of creating various projects. From NSFW content to portfolios, websites, Discord bots, cheats, and more, we enjoy devloping random things and that's all nothing else.
+Hi, welcome We're a group that enjoys creating all sorts of random projects, and we hope you find something here you like.
 
-## How to Support Us
-If you enjoy our work and would like to support us, you can do so by following us on social media, sharing our content, contributing to our projects, or simply giving our projects a star. Every little bit helps, and we truly appreciate your support.
+<div align="center">
+<header><h2>About Us</h2></header>
+</div>
+
+We're a team of developers who love to develop random things. We do everything from websites, portfolios to Discord bots, and even the occasional cheat or NSFW content. Basically, if it's a fun project, we're interested.
+
+<div align="center">
+<header><h2>How to Support Us</h2></header>
+</div>
+
+If you're enjoying what we do and want to show your support, there are a few ways you can help:
+
+*   **Follow us:**  A simple follow of our github.
+*   **Share our content:**  Help spread the word about our work.
+*   **Contribute to our projects:**  If you're a developer, we'd love to have your help.
+*   **Give our projects a star:**  A simple star on our GitHub Repo.
+
+Every little bit of support is greatly appreciated. Thanks for checking us out.
